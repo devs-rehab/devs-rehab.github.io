@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 title: devs.rehab
 # description: [A short description of your site's purpose]
-show_downloads: "false"
+show_downloads: false
+plugins:
+  - jekyll-github-metadata
+
+repository: devs-rehab/devs-rehab.github.io
