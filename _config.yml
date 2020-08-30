@@ -1,11 +1,8 @@
 theme: jekyll-theme-slate
-title: Devs.Rehab
+title: '<a href="https://devs.rehab">Devs.Rehab</a>'
 description: you are not alone
 show_downloads: false
 is_project_page: true
-# plugins:
-#   - jekyll-github-metadata
 repository: devs-rehab/devs-rehab.github.io
-
-exclude:
-  - contribute.md
+plugins:
+  - jemoji

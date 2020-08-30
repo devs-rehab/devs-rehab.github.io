@@ -1,8 +1,7 @@
-<!-- {{ site.github }} -->
 
-# Useful resources for developers in need
+## Where am I?
 
-You just realized that whatever you are doing at work is not worth it anymore? Or you've found yourself in a culture that you deeply despise? Or you just think that you suck as a developer and there is no way you can fix it at your current place?
+Have you just realized that whatever you are doing at work is not worth it anymore? Or you've found yourself in a culture that you deeply despise? Or you just think that you suck as a developer and there is no way you can fix it at your current place?
 
 Remember: **you are not alone**.
 
@@ -14,15 +13,8 @@ Ironically, looking for a new job in such circumstances is the most difficult th
 - Create a [GitHub](https://github.com) account.
 - Create a [StackOverflow](https://stackoverflow.com) account.
 - Start refreshing your skills. Online platforms like [Hackerrank](https://hackerrank.com) can help.
-- Start looking for a job. It might take a while.
+- Start [looking for a job](looking-for-a-job.md). It might take a while.
 
+## This site sucks. I can do better.
 
-## Where to look for remote jobs
-- [https://news.ycombinator.com/jobs](https://news.ycombinator.com/jobs)
-- [https://angel.co/](https://angel.co/)
-- [https://www.workatastartup.com/](https://www.workatastartup.com/) 
-- [https://nodesk.co/](https://nodesk.co/) 
-- [https://stackoverflow.com/jobs/remote-developer-jobs](https://stackoverflow.com/jobs/remote-developer-jobs) 
-- [https://remotemasters.dev/jobs](https://remotemasters.dev/jobs) 
-- [https://remoteleaf.com/whoishiring](https://remoteleaf.com/whoishiring) 
-- [https://remotive.io/remote-jobs/software-dev](https://remotive.io/remote-jobs/software-dev) 
+My friend, I was waiting for you to say it! :heart: That's awesome! Any help and ideas are welcome. Please fork [this repo]({{ site.github.repository_url }}) and submit a PR!
