@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: you are not alone
 # description: [A short description of your site's purpose]
 show_downloads: false
-plugins:
-  - jekyll-github-metadata
-
+# plugins:
+#   - jekyll-github-metadata
 repository: devs-rehab/devs-rehab.github.io
