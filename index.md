@@ -9,7 +9,7 @@ Remember: **you are not alone**.
 Ironically, looking for a new job in such circumstances is the most difficult thing to do. Here is where to start.
 
 - Find a way to get your energy back, at least temporarily.
-- Think about what would like to do, or at least what you definitely don't like to do. Write it down.
+- Think about what you would like to do, or at least what you definitely don't like to do. Write it down.
 - Find a friend you can openly talk to, talk to them.
 - Create a [GitHub](https://github.com) account.
 - Create a [StackOverflow](https://stackoverflow.com) account.

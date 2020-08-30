@@ -1,8 +1,11 @@
 theme: jekyll-theme-slate
-title: you are not alone
-# description: [A short description of your site's purpose]
+title: Devs.Rehab
+description: you are not alone
 show_downloads: false
 is_project_page: true
 # plugins:
 #   - jekyll-github-metadata
 repository: devs-rehab/devs-rehab.github.io
+
+exclude:
+  - contribute.md
