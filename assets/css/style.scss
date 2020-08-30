@@ -3,13 +3,16 @@
 
 @import "{{ site.theme }}";
 
+#forkme_banner {
+    font-size: smaller;
+}
+
 #header_wrap {
     background: lightslategrey;
     border: none;
 }
 
 #header_wrap a {
-    // text-decoration: none;
     color: white;
 }
 
