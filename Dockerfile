@@ -3,7 +3,7 @@ FROM ruby:$RUBY_VERSION
 
 RUN gem update --system
 
-COPY . /src
+COPY ./docs /src
 WORKDIR /src
 
 RUN bundle install
