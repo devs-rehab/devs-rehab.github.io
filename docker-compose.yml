@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  jekyll:
+    build: .
+    command: bundle exec jekyll serve --verbose -H 0.0.0.0 -P 4000
+    ports:
+      - "4000:4000"
